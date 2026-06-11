@@ -1,0 +1,2 @@
+Technique,accuracy,precision,recall,f1
+class_balanced,0.5475,0.7152323762989397,0.5475,0.5604070931111539

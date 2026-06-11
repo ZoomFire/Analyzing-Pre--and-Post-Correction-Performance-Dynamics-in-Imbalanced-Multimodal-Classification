@@ -1,0 +1,2 @@
+Technique,accuracy,precision,recall,f1
+mixup,0.5525,0.6389672358293048,0.5525,0.5221937106705976

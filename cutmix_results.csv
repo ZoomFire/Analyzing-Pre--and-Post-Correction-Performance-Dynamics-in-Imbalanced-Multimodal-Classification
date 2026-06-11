@@ -1,0 +1,2 @@
+Technique,accuracy,precision,recall,f1
+cutmix,0.5375,0.6818012836836367,0.5375,0.519548538565432

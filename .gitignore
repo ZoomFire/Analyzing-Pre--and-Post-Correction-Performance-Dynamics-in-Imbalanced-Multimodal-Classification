@@ -1,0 +1,34 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+.venv/
+.venv-*/
+venv/
+env/
+
+# Local data and generated artifacts
+data/
+datasets/
+outputs/
+
+# Large model checkpoints and binary training artifacts
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+*.joblib
+
+# Local/editor files
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
